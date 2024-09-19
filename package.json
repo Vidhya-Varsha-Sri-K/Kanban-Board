@@ -1,7 +1,7 @@
 {
   "name": "kanban-board",
   "version": "0.1.0",
-  "homepage": "https://vidhya-varsha-sri-k.github.io/KanbanBoard/",
+  "homepage": "https://github.com/Vidhya-Varsha-Sri-K/KanbanBoard",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
